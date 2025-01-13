@@ -8,5 +8,15 @@
     "authorName": "Amresh",
     "content": "\n        <li><strong>Published Date:</strong> [Published Date]</li>\n        <li><strong>Publisher:</strong> [Publisher]</li>\n        <li><strong>ISSN:</strong> [ISSN]</li>\n      </ul>\n      <p>For more details, contact us at: <a href=\"mailto:[Publisher Email]\">[Publisher Email]</a></p>\n      <p>Website: <a href=\"[Journal URL]\">[Journal URL]</a></p>\n    </div>\n  ",
     "timestamp": "2025-01-13T21:50:04.572Z"
+  },
+  {
+    "id": 1736805031594,
+    "title": "SUIIT",
+    "publishedDate": "2025-01-13",
+    "publisher": "SUIIT",
+    "issn": "34344434",
+    "authorName": "Amresh",
+    "content": " <div className=\"mt-5 p-4\" style={{ backgroundColor: \"#222\", color: \"#fff\", borderRadius: \"10px\" }}>\n        <h4 style={{ color: \"#03a678\", textAlign: \"center\" }}>Journal Preview</h4>\n        <h2>{journalTitle || \"[Journal Title]\"}</h2>\n        <ul>\n          <li><strong>Published Date:</strong> {publishedDate || \"[Published Date]\"}</li>\n          <li><strong>Publisher:</strong> {publisher || \"[Publisher]\"}</li>\n          <li><strong>ISSN:</strong> {issn || \"[ISSN]\"}</li>\n          <li><strong>Author Name:</strong> {authorName || \"[Author Name]\"}</li>\n        </ul>\n        <div dangerouslySetInnerHTML={{ __html: journalHTMLContent }}></div>\n      </div>",
+    "timestamp": "2025-01-13T21:50:31.594Z"
   }
 ]
