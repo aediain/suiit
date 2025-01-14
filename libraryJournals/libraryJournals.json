@@ -18,6 +18,7 @@
     "issn": "",
     "authorName": "",
     "content": "<textarea\n  className=\"form-control\"\n  id=\"journalHTMLContent\"\n  rows=\"5\"\n  placeholder=\"Enter journal HTML content...\"\n  value={journalHTMLContent}\n  onChange={(e) => setJournalHTMLContent(e.target.value)}\n  style={{\n    backgroundColor: \"#000\",\n    color: \"#fff\",\n    border: \"none\",\n    borderRadius: \"5px\",\n    padding: \"10px\",\n    fontFamily: \"monospace\",\n  }}\n  maxLength={1000000}  // Optional: Set a higher limit for maximum characters\n/>\n",
-    "timestamp": "2025-01-14T01:40:28.094Z"
+    "timestamp": "2025-01-14T01:40:28.094Z",
+    "averageRating": "NaN"
   }
 ]
