@@ -64,5 +64,11 @@
     "author": "AK Saxena",
     "image": "https://www.abcbooksllc.com/cdn/shop/products/635f65330a6170b1dd0cf517049b030b_300x.jpg?v=1601126668",
     "link": "/login"
+  },
+  {
+    "bookName": "Element of Computer Science And Engineering",
+    "author": "Dr. M. Nagabhushan Rao",
+    "image": "https://m.media-amazon.com/images/I/71RiMHKl9oL._AC_SX148_SY213_QL70_.jpg",
+    "link": "/login"
   }
 ]
