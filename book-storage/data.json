@@ -100,5 +100,11 @@
     "author": "SUIIT",
     "image": "https://library.nitrkl.ac.in/images/sampledata/fruitshop/9788132207498.jpg",
     "link": "/login"
+  },
+  {
+    "bookName": "New BOOK",
+    "author": "SUIIT",
+    "image": "https://library.nitrkl.ac.in/images/sampledata/fruitshop/9781138586741.jpg",
+    "link": "/login"
   }
 ]
