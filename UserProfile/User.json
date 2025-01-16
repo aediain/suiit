@@ -12,6 +12,19 @@
       "education": "BTech CSE",
       "contact": "7854998757",
       "updatedAt": "2025-01-16T15:56:46.602Z"
+    },
+    {
+      "id": "tester@suiit.ac.in",
+      "name": "Tester SUIIT",
+      "email": "tester@suiit.ac.in",
+      "photo": "https://lh3.googleusercontent.com/a/ACg8ocK84fnXxxBever3TbQ-JHTY78N822sg_tpY6v0wrz6VIudW_A=s96-c",
+      "customHTML": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Right Frame</title>\r\n    <style>\r\n        body {\r\n            background-image: url('https://images.unsplash.com/photo-1475070929565-c985b496cb9f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');\r\n            background-size: cover;\r\n            background-position: center;\r\n            background-repeat: no-repeat;\r\n        }\r\n    </style>\r\n</head>\r\n<body>\r\n\r\n<center>\r\n    <!-- Replaced local image with an online image of books -->\r\n       \r\n    <font face=\"Verdana, Geneva, sans-serif\" size=\"5\" color=\"white\">\r\n        <h1><b>Welcome to the Online Book Store!!!</b></h1>\r\n    </font><br />\r\n    \r\n    <!-- Changed font and increased size -->\r\n    <font face=\"Georgia, serif\" size=\"3\" color=\"yellow\">\r\n        <h2><b>\"A Huge Collection Of Engineering E-Books\"</b></h2>\r\n    </font>\r\n</center>\r\n\r\n</body>\r\n</html>\r\n",
+      "fullName": "TESTER",
+      "profession": "tester",
+      "experience": "3",
+      "education": "Tester",
+      "contact": "7854998757",
+      "updatedAt": "2025-01-16T16:16:11.929Z"
     }
   ]
 }
