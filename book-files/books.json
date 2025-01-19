@@ -1,14 +1,5 @@
 [
   {
-    "bookName": "DBMS LAB MANUAL",
-    "author": "Pradyumna Ratha",
-    "fileName": "DBMS_Lab_Manual.pdf",
-    "fileUrl": "https://raw.githubusercontent.com/amreshbhuya/server/main/book-files/DBMS_Lab_Manual.pdf",
-    "uploadDate": "12/4/2024, 8:34:28 AM",
-    "userEmail": "22btcse06@suiit.ac.in",
-    "userName": "AMRESH"
-  },
-  {
     "bookName": "An  introduction to formal languages and automata 5th edition 2011",
     "author": "Peter Linz",
     "fileName": "an-introduction-to-formal-languages-and-automata-5th-edition-2011.pdf",
