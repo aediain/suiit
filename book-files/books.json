@@ -54,18 +54,6 @@
     "userName": "Tester SUIIT"
   },
   {
-    "bookId": "Radha-1737289359453",
-    "department": "Radha",
-    "bookName": "Krishna ",
-    "author": "Radha",
-    "fileName": "",
-    "fileUrl": "https://docs.google.com/document/d/19wIX95vzJw0Rn9MWc05s8pAR0y0MIHrmBPPPv2BfGRY/edit?pli=1&tab=t.0",
-    "bookImageUrl": "http://localhost:3000/static/media/Journals.b607d4ae9bb2fb207903.png",
-    "uploadDate": "1/19/2025, 5:52:39 PM",
-    "userEmail": "22btcse06@suiit.ac.in",
-    "userName": "AMRESH"
-  },
-  {
     "bookId": "y-1737301703436",
     "department": "y",
     "bookName": "f",
