@@ -61,5 +61,16 @@
     "uploadDate": "1/15/2025, 9:04:12 PM",
     "userEmail": "tester@suiit.ac.in",
     "userName": "Tester SUIIT"
+  },
+  {
+    "bookId": "CSE-1737287718175",
+    "department": "CSE",
+    "bookName": "Krishna ",
+    "author": "puspa",
+    "fileName": "",
+    "fileUrl": "https://raw.githubusercontent.com/amreshbhuya/server/main/book-files/DBMS_Lab_Manual.pdf",
+    "uploadDate": "1/19/2025, 5:25:18 PM",
+    "userEmail": "22btcse06@suiit.ac.in",
+    "userName": "AMRESH"
   }
 ]
