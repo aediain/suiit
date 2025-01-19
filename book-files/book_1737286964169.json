@@ -1,0 +1,12 @@
+{
+  "bookId": "book_1737286964169",
+  "bookName": "Krishna ",
+  "authorName": "b",
+  "bookDept": "b",
+  "bookUrl": "http://localhost:3000/AddBookSoftware",
+  "addedBy": {
+    "name": "AMRESH",
+    "email": "22btcse06@suiit.ac.in",
+    "photoURL": "https://lh3.googleusercontent.com/a/ACg8ocIPeZXyHdIiV0-VRLQlPzb9sb7c2lnQiNNhOCi8lBEod7ZTccKD=s96-c"
+  }
+}
