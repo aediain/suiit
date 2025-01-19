@@ -240,9 +240,16 @@
       "ip": "172.253.234.208",
       "email": "anonymous",
       "country": "Brazil",
-      "city": "São Paulo",
+      "city": "SÃ£o Paulo",
       "timestamp": "2025-01-19T10:02:05.576Z"
+    },
+    "393507b6d160796e31494c0bff78ce25da88dc5999e55e0239adab561ec1662f_2f183a4e64493af3f377f745eda502363cd3e7ef6e4d266d444758de0a85fcc8": {
+      "ip": "172.253.192.246",
+      "email": "anonymous",
+      "country": "United States",
+      "city": "Council Bluffs",
+      "timestamp": "2025-01-19T10:02:06.382Z"
     }
   },
-  "totalCount": 1003
+  "totalCount": 1004
 }
