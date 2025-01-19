@@ -118,5 +118,17 @@
     "uploadDate": "1/19/2025, 7:01:42 PM",
     "userEmail": "22btcse06@suiit.ac.in",
     "userName": "AMRESH"
+  },
+  {
+    "bookId": "y-1737301703436",
+    "department": "y",
+    "bookName": "f",
+    "author": "d",
+    "fileName": "",
+    "fileUrl": "https://drive.google.com/file/d/1wllFFWaEgvZZY91ld9LJ6qcWRp8aia9p/view?usp=drive_link",
+    "bookImageUrl": "https://raw.githubusercontent.com/aediain/suiit/main/uploads/suiit_1736685480209.png",
+    "uploadDate": "1/19/2025, 9:18:23 PM",
+    "userEmail": "tester@suiit.ac.in",
+    "userName": "Tester SUIIT"
   }
 ]
